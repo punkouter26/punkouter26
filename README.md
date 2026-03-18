@@ -11,6 +11,11 @@
 
 ---
 
+### 🐍 Contribution Snake
+![Snake Animation](https://raw.githubusercontent.com/punkouter26/punkouter26/output/github-contribution-grid-snake.svg)
+
+---
+
 ### 📊 Comprehensive Activity Metrics
 | **Overall Stats Card** | **Most Used Languages** |
 | :--- | :--- |
