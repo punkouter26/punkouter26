@@ -6,9 +6,6 @@
 
 ---
 
-### 🏆 Achievement Gallery
-[![Trophies](https://github-profile-trophy.vercel.app/?username=punkouter26&theme=radical&no-bg=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
 ---
 
 ### 🐍 Contribution Snake
@@ -19,16 +16,12 @@
 ### 📊 Comprehensive Activity Metrics
 | **Overall Stats Card** | **Most Used Languages** |
 | :--- | :--- |
-| ![Stats](https://github-readme-stats.vercel.app/api?username=punkouter26&show_icons=true&theme=radical&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged&include_all_commits=true) | ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=punkouter26&layout=compact&theme=radical&langs_count=10) |
+| ![Stats](https://github-readme-stats.vercel.app/api?username=punkouter26&show_icons=true&theme=radical&count_private=true&include_all_commits=true) | ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=punkouter26&layout=compact&theme=radical&langs_count=10) |
 
 ---
 
 ### 📈 Productivity & Workflow
-| **Commit Activity** | **Weekly Coding Hours** |
-| :--- | :--- |
-| ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=punkouter26&theme=radical) | ![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=punkouter26&theme=radical&layout=compact) |
-
-> **Note:** For the Weekly Chart to show data, you'll need a free [WakaTime](https://wakatime.com) account linked to VS Code.
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=punkouter26&theme=radical)
 
 ---
 
@@ -48,7 +41,7 @@
 
 ### 📫 Connect with Me
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_SLUG" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/matthew-herb-a176443a5/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:punkouter26@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
 
