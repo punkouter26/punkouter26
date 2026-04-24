@@ -46,11 +46,35 @@
 ---
 
 ### 🛠️ Professional Tech Stack
-**Backend & Architecture** ![.NET 10](https://img.shields.io/badge/.NET_10-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![C# 14](https://img.shields.io/badge/C%23_14-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-**Frontend & Logic** ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![React 19](https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-**AI & Tooling** ![LM Studio](https://img.shields.io/badge/LM_Studio-FFD700?style=for-the-badge&logo=openai&logoColor=black) ![ComfyUI](https://img.shields.io/badge/ComfyUI-7F00FF?style=for-the-badge&logo=stability-ai&logoColor=white) ![Copilot](https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=github-copilot&logoColor=white)
+<table>
+  <tr>
+    <td align="center" width="130"><strong>🔧 Backend &<br/>Architecture</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/.NET_10-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+      <img src="https://img.shields.io/badge/C%23_14-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+      <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>🎨 Frontend &<br/>Logic</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+      <img src="https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>🤖 AI &<br/>Tooling</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/LM_Studio-FFD700?style=for-the-badge&logo=openai&logoColor=black" />
+      <img src="https://img.shields.io/badge/ComfyUI-7F00FF?style=for-the-badge&logo=stability-ai&logoColor=white" />
+      <img src="https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=github-copilot&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 ---
 
