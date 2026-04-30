@@ -40,11 +40,6 @@
 
 ---
 
-### 🏙️ GitHub Skyline
-[![Skyline 2026](https://img.shields.io/badge/GitHub_Skyline-2026-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://skyline.github.com/punkouter26/2026)  [![Skyline 2025](https://img.shields.io/badge/GitHub_Skyline-2025-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://skyline.github.com/punkouter26/2025)
-
----
-
 ### 🛠️ Professional Tech Stack
 
 <table>
@@ -75,12 +70,6 @@
     </td>
   </tr>
 </table>
-
----
-
-### ⚡ Recent Activity
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 ---
 
