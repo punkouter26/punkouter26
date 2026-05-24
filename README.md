@@ -8,6 +8,13 @@
 
 ---
 
+### ⚡ Recent GitHub Activity
+<!--START_SECTION:activity-->
+- 🔄 Activity will be updated automatically
+<!--END_SECTION:activity-->
+
+---
+
 ### 🐍 Contribution Snake
 ![Snake Animation](https://raw.githubusercontent.com/punkouter26/punkouter26/output/github-contribution-grid-snake.svg)
 
