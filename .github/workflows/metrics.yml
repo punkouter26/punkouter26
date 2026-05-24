@@ -17,9 +17,6 @@ jobs:
           user: punkouter26
           template: classic
           base: header, activity, community, repositories, metadata
-          plugin_achievements: yes
-          plugin_achievements_display: detailed
-          plugin_achievements_limit: 0
           filename: metrics.svg
           output_action: commit
           committer_branch: main
